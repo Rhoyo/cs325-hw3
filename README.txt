@@ -1,4 +1,5 @@
 Compile: g++ -std=c++11
+Lang: c++
 
 Part 1
 
